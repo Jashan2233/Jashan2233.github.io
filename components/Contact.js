@@ -2,18 +2,12 @@ import emailjs from "emailjs-com";
 import { useState } from "react";
 const Contact = () => {
   const infos = [
-    { id: 1, icon: "smartphone", title: "Call Me", value: "+123 456 7890" },
+    { id: 1, icon: "smartphone", title: "Call Me", value: "+8482473445" },
     {
       id: 2,
       icon: "letter",
-      title: "Email Us",
-      value: '<a href="#">hello@iknow.com</a>',
-    },
-    {
-      id: 3,
-      icon: "placeholder",
-      title: "Address",
-      value: "20, Bardeshi, Amin Bazar",
+      title: "Email me",
+      value: '<a href="#">jashan17100@gmail.com</a>',
     },
   ];
 

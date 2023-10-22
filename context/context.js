@@ -104,7 +104,7 @@ const state = (props) => {
       nationality: "American",
       email: "jashan17100@gmail.com",
       phone: "848-247-3445",
-      bio: "Hi! My name is Jessica Parker. I am UI/UX designer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional graphic designer, I have acquired the skills and knowledge necessary to make your project a success.",
+      bio: "Hello, I'm [Your Name], a dedicated Software Engineer with a focus on web development. My journey began with a graduation in Software Engineering, and from there, I've embarked on a fulfilling career in crafting digital experiences.",
       // address: "20, Bardeshi, Dhaka",
       title: "World leading UI/UX designer",
       // subTitle:
