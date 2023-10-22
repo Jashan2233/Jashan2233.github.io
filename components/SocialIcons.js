@@ -3,8 +3,8 @@ const SocialIcons = () => {
     <div className="social">
       <ul>
         <li>
-          <a href="#">
-            <img className="svg" src="/img/svg/social/facebook.svg" alt="" />
+          <a href="https://github.com/Jashan2233" target="_blank">
+            <img className="svg" src="/img/svg/social/github.svg" alt="" />
           </a>
         </li>
         <li>

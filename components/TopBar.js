@@ -17,8 +17,11 @@ const TopBar = ({ topbarIcon = true, darkLogo = true }) => {
           <div className="right">
             {topbarIcon && <SocialIcons />}
             <div className="iknow_tm_button">
-              <a href="img/cv/1.jpg" download>
-                Download CV
+              <a
+                href="https://docs.google.com/document/d/13jG--kSf8RacsVGGXzFOLq_Fn1Vgj4rI1QciUEZY7bM/edit?usp=sharing"
+                target="_blank"
+              >
+                Resume
               </a>
             </div>
           </div>

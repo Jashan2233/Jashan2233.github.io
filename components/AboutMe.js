@@ -53,7 +53,7 @@ const AboutMe = () => {
           <p>{aboutData.bio}</p>
         </div>
         <div className="iknow_tm_button">
-          <a href="img/cv/1.jpg" download>
+          <a href="https://docs.google.com/document/d/13jG--kSf8RacsVGGXzFOLq_Fn1Vgj4rI1QciUEZY7bM/edit?usp=sharing">
             Download CV
           </a>
         </div>
