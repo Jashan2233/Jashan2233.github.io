@@ -1,9 +1,12 @@
 {
   "name": "iknow-react",
   "version": "0.1.0",
+  "homepage": "https://Jashan2233.github.io/react-gh-pages",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -23,5 +26,8 @@
     "three": "^0.124.0",
     "three.js": "^0.77.1",
     "vanta": "^0.5.21"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
