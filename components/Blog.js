@@ -1,0 +1,84 @@
+import { context } from "@/context/context";
+import { useContext } from "react";
+
+const Blog = () => {
+  const blogs = [
+    {
+      id: 1,
+      category: "ChillAB",
+      title: "Full-Stack Airbnb Clone",
+      img: "/img/news/1.jpg",
+    },
+    {
+      id: 2,
+      category: "Biscord",
+      title: "Full-Stack Discord Clone",
+      img: "/img/news/2.jpg",
+    },
+    {
+      id: 3,
+      category: "Techsy",
+      title: "Full-Stack Etsy Clone",
+      img: "/img/news/3.jpg",
+    },
+  ];
+  const { modalToggle, setBlogModal } = useContext(context);
+  return (
+    <div className="iknow_tm_news">
+      <div className="iknow_tm_main_title">
+        <span>Projects</span>
+        <h3>My projects</h3>
+      </div>
+      <div className="news_list">
+        <ul>
+          {blogs.map((blog) => (
+            <li key={blog.id}>
+              <div className="list_inner">
+                <div className="image">
+                  <img src="/img/thumbs/37-27.jpg" alt="image" />
+                  <div className="main" data-img-url={blog.img} />
+                  <a
+                    className="iknow_tm_full_link"
+                    href="#"
+                    onClick={(e) => {
+                      e.preventDefault();
+                      modalToggle(true);
+                      setBlogModal(blog);
+                    }}
+                  />
+                </div>
+                <div className="details">
+                  <span className="category">
+                    <a
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        modalToggle(true);
+                        setBlogModal(blog);
+                      }}
+                    >
+                      {blog.category}
+                    </a>
+                  </span>
+                  <h3 className="title">
+                    <a
+                      href="#"
+                      onClick={(e) => {
+                        e.preventDefault();
+                        modalToggle(true);
+                        setBlogModal(blog);
+                      }}
+                    >
+                      {blog.title}
+                    </a>
+                  </h3>
+                </div>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  );
+};
+export default Blog;
