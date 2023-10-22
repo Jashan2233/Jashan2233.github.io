@@ -6,11 +6,6 @@ const nextConfig = {
       "/": { page: "/" },
     };
   },
-
-  // Add the export configuration
-  export: {
-    output: "static", // Use 'static' for static HTML export
-  },
 };
 
 module.exports = nextConfig;
