@@ -104,9 +104,9 @@ const state = (props) => {
       nationality: "American",
       email: "jashan17100@gmail.com",
       phone: "848-247-3445",
-      bio: "Hello, I'm [Your Name], a dedicated Software Engineer with a focus on web development. My journey began with a graduation in Software Engineering, and from there, I've embarked on a fulfilling career in crafting digital experiences.",
+      bio: "Hi There! I’m Jashan Singh, a passionate software developer on a journey to create seamless and efficient digital experiences. With a keen eye for detail and a love for problem-solving, I’m on a mission to turn lines of code into innovative solutions. My Toolbox  includes JavaScript, Python, React, Redux, Flask, PostgreSQL, and much more. These are not just technologies for me; they are the building blocks of my digital world. JavaScript is my go-to for crafting dynamic, interactive web applications. Flask empowers me to build robust and scalable backend systems, and Redux is the secret to keep everything well-organized and smooth. I don't just write code: I solve real-world problems. I relish the challenge of identifying issues, dissecting them, and crafting elegant solutions. Beyond the lines of code, I’m fueled by a deep passion for what I do. Every Project I work on, I do so with dedication and commitment to excellence.",
       // address: "20, Bardeshi, Dhaka",
-      title: "World leading UI/UX designer",
+      title: "Software-Engineer",
       // subTitle:
       //   "A passionate UI/UX Designer and Web Developer based In NYC, USA",
     },

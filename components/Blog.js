@@ -13,13 +13,13 @@ const Blog = () => {
       id: 2,
       category: "Biscord",
       title: "Full-Stack Discord Clone",
-      img: "/img/news/2.jpg",
+      img: "/img/news/Biscord.png",
     },
     {
       id: 3,
       category: "Techsy",
       title: "Full-Stack Etsy Clone",
-      img: "/img/news/3.jpg",
+      img: "/img/news/techsy.png",
     },
   ];
   const { modalToggle, setBlogModal } = useContext(context);

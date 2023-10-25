@@ -8,7 +8,7 @@ const AboutMe = () => {
       <div className="left">
         <div className="left_inner">
           <div className="image">
-            <img src="/img/thumbs/35-44.jpg" alt="image" />
+            <img src="/img/hero/1.png" alt="image" />
             <div className="main" data-img-url={aboutData.img} />
           </div>
           <div className="details">
@@ -54,7 +54,7 @@ const AboutMe = () => {
         </div>
         <div className="iknow_tm_button">
           <a href="https://docs.google.com/document/d/13jG--kSf8RacsVGGXzFOLq_Fn1Vgj4rI1QciUEZY7bM/edit?usp=sharing">
-            Download CV
+            SEE MY RESUME
           </a>
         </div>
       </div>
