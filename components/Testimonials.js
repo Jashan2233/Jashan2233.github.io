@@ -100,7 +100,7 @@ const Testimonials = () => {
                   </div>
                   <div className="info">
                     <h3>Chris Stucke</h3>
-                    <span>IBO. Corp</span>
+                    <span>Backend Developer</span>
                   </div>
                 </div>
                 <div className="right">
