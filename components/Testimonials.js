@@ -131,72 +131,8 @@ const Testimonials = () => {
                     />
                   </div>
                   <div className="info">
-                    <h3>Albert Walker</h3>
+                    <h3>Jimmy Juarez</h3>
                     <span>Singer</span>
-                  </div>
-                </div>
-                <div className="right">
-                  <img
-                    className="svg"
-                    src="/img/svg/left-quote.svg"
-                    alt="image"
-                  />
-                </div>
-              </div>
-            </div>
-          </SwiperSlide>
-          <SwiperSlide className="list_inner">
-            <div className="in">
-              <div className="text">
-                <p>
-                  The Author had done a great job, it's clean and easy to
-                  understand the code. Comment blocks made it really easy to
-                  read the code.
-                </p>
-              </div>
-              <div className="details">
-                <div className="left">
-                  <div className="avatar">
-                    <div
-                      className="main"
-                      data-img-url="/img/testimonials/4.jpg"
-                    />
-                  </div>
-                  <div className="info">
-                    <h3>Arnold Hookins</h3>
-                    <span>Photographer</span>
-                  </div>
-                </div>
-                <div className="right">
-                  <img
-                    className="svg"
-                    src="/img/svg/left-quote.svg"
-                    alt="image"
-                  />
-                </div>
-              </div>
-            </div>
-          </SwiperSlide>
-          <SwiperSlide className="list_inner">
-            <div className="in">
-              <div className="text">
-                <p>
-                  I can't believe I got support and my problem resolved in
-                  minutes from posting my question. Simply amazing team and
-                  amazing theme! Thank you!
-                </p>
-              </div>
-              <div className="details">
-                <div className="left">
-                  <div className="avatar">
-                    <div
-                      className="main"
-                      data-img-url="/img/testimonials/5.jpg"
-                    />
-                  </div>
-                  <div className="info">
-                    <h3>Aura Brooklyn</h3>
-                    <span>Fashion Model</span>
                   </div>
                 </div>
                 <div className="right">

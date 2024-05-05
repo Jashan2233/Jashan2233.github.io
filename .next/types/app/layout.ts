@@ -1,4 +1,4 @@
-// File: /home/jassa/appacademy/Mod-7/portfolio/portfoliofix/Jashan2233.github.io/app/layout.js
+// File: /home/jassa/Appacademy/portfolio/Jashan2233.github.io/app/layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -34,7 +34,7 @@ const Service = () => {
     {
       id: 4,
       title: "CSS",
-      icon: "user",
+      icon: "design",
       // desc: "Web development is the building and maintenance of websites. it’s the work that...",
       img: "img/service/4.jpg",
     },
@@ -45,13 +45,41 @@ const Service = () => {
       // desc: "Web development is the building and maintenance of websites. it’s the work that...",
       img: "img/service/5.jpg",
     },
+    {
+      id: 6,
+      title: "AWS",
+      icon: "squares",
+      // desc: "Web development is the building and maintenance of websites. it’s the work that...",
+      img: "img/service/5.jpg",
+    },
+    {
+      id: 7,
+      title: "Flask",
+      icon: "briefcase",
+      // desc: "Web development is the building and maintenance of websites. it’s the work that...",
+      img: "img/service/5.jpg",
+    },
+    {
+      id: 8,
+      title: "Redux",
+      icon: "physics",
+      // desc: "Web development is the building and maintenance of websites. it’s the work that...",
+      img: "img/service/5.jpg",
+    },
+    {
+      id: 9,
+      title: "SCRUM",
+      icon: "user",
+      // desc: "Web development is the building and maintenance of websites. it’s the work that...",
+      img: "img/service/5.jpg",
+    },
   ];
   const { modalToggle, setServiceModal } = useContext(context);
   return (
     <div className="iknow_tm_services">
       <div className="iknow_tm_main_title">
-        <span>Service</span>
-        <h3>Never compromise with quality</h3>
+        {/* <span>Skills</span> */}
+        <h3>Skills</h3>
       </div>
       <div className="service_list">
         <ul>
