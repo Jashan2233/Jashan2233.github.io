@@ -67,8 +67,8 @@ const Testimonials = () => {
                     />
                   </div>
                   <div className="info">
-                    <h3>Jecob Oramson</h3>
-                    <span>Designer</span>
+                    <h3>Xavier Guzman</h3>
+                    <span>'Biscord Project Team Member'</span>
                   </div>
                 </div>
                 <div className="right">
@@ -99,7 +99,7 @@ const Testimonials = () => {
                     />
                   </div>
                   <div className="info">
-                    <h3>Kerry Hudson</h3>
+                    <h3>Chris Stucke</h3>
                     <span>IBO. Corp</span>
                   </div>
                 </div>
@@ -132,7 +132,7 @@ const Testimonials = () => {
                   </div>
                   <div className="info">
                     <h3>Jimmy Juarez</h3>
-                    <span>Singer</span>
+                    <span>'Biscord Project Team Member'</span>
                   </div>
                 </div>
                 <div className="right">
