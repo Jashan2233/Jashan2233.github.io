@@ -98,7 +98,7 @@ const state = (props) => {
       { id: 7, href: "contact", title: "Contact", icon: "letter" },
     ],
     aboutData: {
-      name: "Jashan Singh",
+      name: "Jashan Preet Singh",
       img: "/img/about/1.jpg",
       birthday: "August 15, 2002",
       nationality: "American",
