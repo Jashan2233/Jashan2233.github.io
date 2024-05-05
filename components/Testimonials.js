@@ -117,9 +117,7 @@ const Testimonials = () => {
             <div className="in">
               <div className="text">
                 <p>
-                  Not only was customer support very fast, but the design is
-                  very professional. Will definitely be looking for new products
-                  in the future from this author.
+                Working with Jashan Singh on our Discord clone project was an absolute pleasure. Jashan's exceptional software engineering skills were evident throughout the entire collaboration, as he consistently demonstrated a deep understanding of the project requirements and implemented innovative solutions with precision. His dedication, collaborative spirit, and ability to troubleshoot challenges efficiently made our development process seamless, resulting in a high-quality Discord clone that exceeded our expectations
                 </p>
               </div>
               <div className="details">
