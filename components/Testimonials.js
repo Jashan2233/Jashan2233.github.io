@@ -117,8 +117,11 @@ const Testimonials = () => {
             <div className="in">
               <div className="text">
                 <p>
-                Working with Jashan Singh on our Discord clone project was an absolute pleasure. Jashan's exceptional software engineering skills were evident throughout the entire collaboration, as he consistently demonstrated a deep understanding of the project requirements and implemented innovative solutions with precision. His dedication, collaborative spirit, and ability to troubleshoot challenges efficiently made our development process seamless, resulting in a high-quality Discord clone that exceeded our expectations
+                Working with Jashan Singh on our Discord clone project was an absolute pleasure. Jashan's exceptional software engineering skills were evident throughout the entire collaboration, as he consistently demonstrated a deep understanding of the project requirements and implemented innovative solutions with precision. His dedication, collaborative spirit, and ability to troubleshoot challenges efficiently made our development process seamless, resulting in a high-quality Discord clone that exceeded our expectations.
                 </p>
+                <div className="contact-discord">
+                <p>To contact, please use Discord: MyNamesOriginal#0564</p>
+                </div>
               </div>
               <div className="details">
                 <div className="left">
@@ -131,6 +134,7 @@ const Testimonials = () => {
                   <div className="info">
                     <h3>Jimmy Juarez</h3>
                     <span>'Biscord Project Team Member'</span>
+
                   </div>
                 </div>
                 <div className="right">
