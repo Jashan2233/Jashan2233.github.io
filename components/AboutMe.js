@@ -22,7 +22,7 @@ const AboutMe = () => {
                 <span>{aboutData.birthday}</span>
               </li>
               <li>
-                <h3>Mail</h3>
+                <h3>Email</h3>
                 <span>{aboutData.email}</span>
               </li>
               <li>
