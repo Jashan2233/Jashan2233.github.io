@@ -85,9 +85,7 @@ const Testimonials = () => {
             <div className="in">
               <div className="text">
                 <p>
-                  The design is elegant. The customer support on this product is
-                  also amazing. I would highly recommend you to purchase
-                  templates from the Marketify team!
+                  Xavier Guzman goes here
                 </p>
               </div>
               <div className="details">
