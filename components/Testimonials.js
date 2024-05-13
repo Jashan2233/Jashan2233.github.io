@@ -85,7 +85,7 @@ const Testimonials = () => {
             <div className="in">
               <div className="text">
                 <p>
-                  Xavier Guzman goes here
+                  Chris Stucke goes here
                 </p>
               </div>
               <div className="details">
