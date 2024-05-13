@@ -133,7 +133,7 @@ const Testimonials = () => {
                   </div>
                   <div className="info">
                     <h3>Jimmy Juarez</h3>
-                    <span>'Biscord Project Team Member'</span>
+                    <span>'Biscord (Discord Clone) Project Team Member'</span>
 
                   </div>
                 </div>
