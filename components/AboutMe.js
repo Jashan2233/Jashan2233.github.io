@@ -26,7 +26,7 @@ const AboutMe = () => {
                 <span>{aboutData.email}</span>
               </li>
               <li>
-                <h3>Cell</h3>
+                <h3>Phone Number</h3>
                 <span>{aboutData.phone}</span>
               </li>
               {/* <li>
