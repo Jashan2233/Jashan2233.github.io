@@ -12,7 +12,7 @@ const Blog = () => {
     {
       id: 2,
       category: "Biscord",
-      title: "Full-Stack Discord Clone",
+      title: "Discord Clone Flask/React",
       img: "/img/news/Biscord.png",
     },
     {
