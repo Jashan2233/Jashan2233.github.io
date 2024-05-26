@@ -14,7 +14,7 @@ const AboutMe = () => {
           <div className="details">
             <ul>
               <li>
-                <h3>Full Name</h3>
+                <h3>Name</h3>
                 <span>{aboutData.name}</span>
               </li>
               <li>
