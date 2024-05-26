@@ -18,7 +18,7 @@ const Blog = () => {
     {
       id: 3,
       category: "Techsy",
-      title: "Full-Stack Etsy Clone",
+      title: "Etsy Clone Flask/React",
       img: "/img/news/techsy.png",
     },
   ];
