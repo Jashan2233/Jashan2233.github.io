@@ -98,7 +98,7 @@ const Testimonials = () => {
                   </div>
                   <div className="info">
                     <h3>Chris Stucke</h3>
-                    <span>Backend Developer</span>
+                    <span>Web Developer</span>
                   </div>
                 </div>
                 <div className="right">
