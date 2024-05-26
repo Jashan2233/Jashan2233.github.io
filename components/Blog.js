@@ -6,7 +6,7 @@ const Blog = () => {
     {
       id: 1,
       category: "ChillAB",
-      title: "Full-Stack Airbnb Clone",
+      title: " Airbnb Clone Express/React",
       img: "/img/news/1.jpg",
     },
     {
