@@ -449,7 +449,7 @@ body.dark .loader_line:after {
   display: inline-block;
 }
 .iknow_tm_topbar .logo img {
-  max-width: 120px;
+  max-width: 130px;
 }
 .iknow_tm_topbar .right {
   display: flex;
