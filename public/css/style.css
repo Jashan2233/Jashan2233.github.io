@@ -443,7 +443,7 @@ body.dark .loader_line:after {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 35px;
+  padding-top: 45px;
 }
 .iknow_tm_topbar .logo {
   display: inline-block;
