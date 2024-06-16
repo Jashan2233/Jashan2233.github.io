@@ -457,7 +457,7 @@ body.dark .loader_line:after {
 }
 .iknow_tm_topbar .right .social {
   position: relative;
-  top: 2px;
+  top: 4px;
 }
 .iknow_tm_topbar .right .social ul {
   margin: 0px;
